@@ -18,7 +18,6 @@
 // @grant          GM_deleteValue
 // @grant          GM_xmlhttpRequest
 // @grant          GM_getResourceText
-// @icon           http://gm.wesley.eti.br/icon.php?desc=28760
 // @connect        angelfire.com
 // @connect        cnwcentral.com
 // @connect        quagthistle.org
